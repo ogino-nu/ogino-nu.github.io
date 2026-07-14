@@ -1,3 +1,8 @@
+---
+layout: page
+title: "software Eng. lecture note"
+permalink: /docs/softwareEng2026
+---
 # 2026ソフトウェア工学演習
 第11回 演習課題
 # 第1~6回のまとめ
